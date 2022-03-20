@@ -23,6 +23,12 @@ An API for a social network web application where users can share their thoughts
 # Installation
     Clone GitHub repository (link can be found above)
     npm init
+    Make sure MERN is installed ( MongoDB, Express.js, React and Node.js)
+    npm install mongoose
+    npm install express.js
+    npm install react
+    npm install node.js
+    
     Install MongoDB and Express are onto your computer.
     Use 'npm start' in the command line interface to begin
 
