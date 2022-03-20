@@ -21,6 +21,7 @@
     "express": "^4.17.3",
     "express.js": "^1.0.0",
     "moment": "^2.29.1",
+    "mongo": "^0.1.0",
     "mongodb": "^4.4.1",
     "mongoose": "^6.2.7",
     "node.js": "^0.0.1-security",
